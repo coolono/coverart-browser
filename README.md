@@ -3,7 +3,18 @@
 
 Browse your coverart albums in Rhythmbox v2.96 - Rhythmbox v2.98*
 
-(for rhythmbox 2.99 please look at the Notes section below - we need help testing support for RB2.99)
+---------- 
+
+v0.9 of the plugin is now gearing up for its release - we just need testers.  
+If you are a rhythmbox user from v2.96 through to the git verson of RB (upcoming 3.0), 
+please grab a copy of the master branch (https://github.com/fossfreedom/coverart-browser/blob/master/README.md) and 
+test it out.  Let us know the "good/bad and the ugly" by creating an issue on the projects GitHub page 
+(https://github.com/fossfreedom/coverart-browser/issues?milestone=8&state=open) Cheers.
+
+Also - if you are a translator - please update your language translations so that we can test that component as well 
+(https://translations.launchpad.net/coverartbrowser/trunk)
+
+------------
 
 ![Imgur](http://i.imgur.com/yXYmcOt.png)
 
