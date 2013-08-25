@@ -60,7 +60,7 @@ Also - if you are a translator - please update your language translations so tha
  - Albums are displayed as clickable buttons containing their album cover
  - Right click menu option to play, queue & search for coverart for an album.
  
- - https://github.com/fossfreedom/coverart-browser/wiki/How-the-plugin-works
+ - https://github.com/fossfreedom/coverart-browser/wiki/how-to-for-version-0.8
 
 *How to install:*
 
